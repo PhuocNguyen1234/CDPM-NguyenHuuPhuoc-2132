@@ -1,2 +1,2 @@
 Nguyen Huu Phuoc - 2132
-ADD, MUL
+ADD, SUB, MUL
